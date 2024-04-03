@@ -1,2 +1,2 @@
-service:
-  greeting: hello good morning
+server:
+  port: 8191
